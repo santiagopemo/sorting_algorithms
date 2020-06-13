@@ -118,11 +118,13 @@ Here is a quick tip to help you test your sorting algorithms with big sets of ra
 
 ## Tasks :page_with_curl:
 ### Mandatory
-- [x] **[0. Bubble sort](./)** - Write a function that sorts an array of integers in ascending order using the Bubble sort algorithm.
+- [x] **[0. Bubble sort](./0-bubble_sort.c)** - Write a function that sorts an array of integers in ascending order using the Bubble sort algorithm.
 Write in the file 0-O, the big O notations of the time complexity of the Bubble sort algorithm, with 1 notation per line.
-- [x] **[2. Selection sort](./)** - Write a function that sorts a doubly linked list of integers in ascending order using the Insertion sort algorithm.
+- [x] **[1. Insertion sort](./1-insertion_sort_list.c)** - Write a function that sorts a doubly linked list of integers in ascending order using the Insertion sort algorithm.
 Write in the file 1-O, the big O notations of the time complexity of the Insertion sort algorithm, with 1 notation per line.
-- [x] **[3. Quick sort ](./)** - Write a function that sorts an array of integers in ascending order using the Quick sort algorithm.
+- [x] **[2. Selection sort](./2-selection_sort.c)** - Write a function that sorts an array of integers in ascending order using the Selection sort algorithm.
+Write in the file 2-O, the big O notations of the time complexity of the Selection sort algorithm, with 1 notation per line.
+- [x] **[3. Quick sort ](./3-quick_sort.c)** - Write a function that sorts an array of integers in ascending order using the Quick sort algorithm.
 Write in the file 3-O, the big O notations of the time complexity of the Quick sort algorithm, with 1 notation per line.
 ### Advance :muscle:
 - [x] **[](./)** - Description
